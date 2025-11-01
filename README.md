@@ -25,8 +25,8 @@ document-scanner/
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/cryometsys/Simple-document-scanner-CV.git
-   cd Simple-document-scanner-CV
+   git clone https://github.com/cryometsys/Simple-Document-Scanner-CV.git
+   cd Simple-Document-Scanner-CV
    ```
 2. Install dependencies:
    ```bash
